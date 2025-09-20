@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **How to work on live projects**
 
-- 💬 Ask me about **MERN (Mongo DB + Express JS + React JS + Node JS)**
+  - 💬 Ask me about **JAVA + WEB TECHNOLOGIES + DATABASES**
 
 - 📫 How to reach me **mahvishfatima162@gmail.com**
 
